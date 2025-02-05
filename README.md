@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Habiba!
 
 🚀 **Aspiring Data & Analytics Engineer | Data Scientist | AI/ML Enthusiast**  
 🎓 Studying **Computer Science & Data Science** at **Ain Shams University**  
@@ -10,17 +10,13 @@
 
 📚 **I'm currently learning:**  
 - Scalable Data Pipelines & ETL (Airflow, Spark)  
-- Advanced Machine Learning & AI  
-- Backend Development with ASP.NET & MySQL  
+- Advanced Machine Learning & AI 
 
 🎯 **Goals:**  
 - Build intelligent, data-driven applications 📊  
 - Optimize and scale data pipelines for real-world use  
-- Contribute to AI & Data Engineering open-source projects  
-
-🎲 **Fun fact:**  
-I love **exploring open-source projects** and analyzing their impact—check out my [repo of Egyptian Open-Source Projects](#)!  
-
+- Contribute to AI & Data Engineering open-source projects
+  
 ---
 
 ## 🛠️ Tech Stack  
@@ -41,13 +37,12 @@ I love **exploring open-source projects** and analyzing their impact—check out
 ---
 
 ## 📫 Let's Connect  
-📧 Email: your.email@example.com  
+📧 Email: habibaalaaeldin17@gmail.com  
 💼 [LinkedIn](#) | [Portfolio](#) | [Twitter](#)  
 
 ---
 
 ✨ *Always open to collaborations on Data Engineering, AI, and ML projects!* 🚀  
-
 
 <!--
 **haabiba-alaa/haabiba-alaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
