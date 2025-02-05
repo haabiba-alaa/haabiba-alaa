@@ -15,11 +15,7 @@
 🎯 **Goals:**  
 - Build intelligent, data-driven applications 📊  
 - Optimize and scale data pipelines for real-world use  
-- Contribute to AI & Data Engineering open-source projects  
-
-🔭 **I'm currently learning:**  
-- Scalable Data Pipelines & ETL (Airflow, Spark)  
-- Advanced Machine Learning & AI 
+- Contribute to AI & Data Engineering open-source projects
 
 ---
 
