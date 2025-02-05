@@ -17,14 +17,14 @@
 
 ---
 
-## 📫 Connect with Me:  
+## 📫 Reach Me:  
 <p align="left">
 <a href="https://www.linkedin.com/in/habiba-alaa17/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/habibaalaa17" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 <a href="mailto:habibaalaaeldin17@gmail.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email" height="30" width="40" /></a>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 ---
