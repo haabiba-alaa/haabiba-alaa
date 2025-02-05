@@ -9,7 +9,7 @@
 ## ✨ About Me  
 
 📚 **I'm currently learning:**  
-- Scalable Data Pipelines & ETL (Airflow, Spark)  
+- Scalable Data Pipelines & ETL
 - Advanced Machine Learning & AI  
 
 🎯 **Goals:**  
