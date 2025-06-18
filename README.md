@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habiba</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Data & Analytics Engineer | AI/ML Engineer</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | AI/ML Engineer | Data & Analytics Engineer</h3>
 
 ## ✨ About Me  
 
