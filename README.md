@@ -3,7 +3,7 @@
 
 ## ✨ About Me  
 
-🎓 Studying **Computer Science** at **Ain Shams University**  
+🎓 Fresh Graduate in **Computer Science** from **Ain Shams University** 
 💡 Passionate about **Data Science**, **Analytics Engineering**, and **AI-driven solutions**  
 
 🧠 Built a strong foundation in **Generative AI** through my graduation project, working with **LLMs, Prompt Engineering, and AI Agents**  
