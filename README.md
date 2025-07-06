@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Habiba</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | AI/ML Engineer | Data & Analytics Engineer</h3>
+<h3 align="center">🚀 Aspiring Data & Analytics Engineer | AI/ML Engineer </h3>
 
 ## ✨ About Me  
 
 🎓 Fresh Graduate in **Computer Science** from **Ain Shams University**  
-💡 Passionate about **Data Science**, **Analytics Engineering**, and **AI-driven solutions**  
+🔍 Passionate about **Data Engineering, Machine Learning, and AI-driven solutions**  
 
 🧠 Built a strong foundation in **Generative AI** through my graduation project, working with **LLMs, Prompt Engineering, and AI Agents**  
-🚀 Currently expanding my knowledge in **AI system design**, **GenAI production pipelines**, and **scalable deployment of intelligent applications**  
+🚀 Currently expanding my knowledge in and **scalable deployment of intelligent applications**  
 
-📚 **Currently Exploring:**   
-- Model optimization and evaluation in real-world scenarios  
-- Productionizing GenAI workflows for end users  
+📚 **Currently Exploring:** 
+- Scalable Data Pipelines & ETL 
+- AI system design and GenAI production pipelines 
 
 🎯 **Goals:**  
-- Build reliable, human-centric AI solutions  
-- Contribute to open-source AI and Data Engineering projects  
-- Specialize in deploying scalable, intelligent applications in real-world environments  
+- Build intelligent, data-driven applications 📊  
+- Optimize and scale data pipelines for real-world use  
+- Contribute to AI & Data Engineering projects 
 
 ---
 
