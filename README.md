@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Habiba</h1>
-<h3 align="center">🚀 Aspiring Data & Analytics Engineer | AI/ML Engineer </h3>
-
-## ✨ About Me  
 
 🎓 Fresh Graduate in **Computer Science** from **Ain Shams University**  
 🔍 Passionate about **Data Engineering, Machine Learning, and AI-driven solutions**  
