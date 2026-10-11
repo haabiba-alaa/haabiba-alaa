@@ -6,26 +6,10 @@
 🎓 Fresh Graduate in **Computer Science** from **Ain Shams University**  
 🔍 Passionate about **Data Engineering, Machine Learning, and AI-driven solutions**  
 
-🧠 Built a strong foundation in **Generative AI** through my graduation project, working with **LLMs, Prompt Engineering, and AI Agents**  
-🚀 Currently expanding my knowledge in and **scalable deployment of intelligent applications**  
-
-📚 **Currently Exploring:** 
-- Scalable Data Pipelines & ETL 
-- AI system design and GenAI production pipelines 
-
-🎯 **Goals:**  
-- Build intelligent, data-driven applications 📊  
-- Optimize and scale data pipelines for real-world use  
-- Contribute to AI & Data Engineering projects 
-
----
-
 ## 📫 Reach Me:  
 <p align="left">
 <a href="https://www.linkedin.com/in/habiba-alaa17/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/habibaalaa17" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
 <a href="mailto:habibaalaaeldin17@gmail.com" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" /></a>
 </p>
